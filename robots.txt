@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://t-a-hensel.github.io/sitemap.xml
+Sitemap: https://t-a-hensel.github.io/portfolio/sitemap.xml
