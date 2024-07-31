@@ -18,8 +18,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m Thomas, a passionate learner and researcher. You've found my academic portfolio, where you can explore my research interests and accomplishments.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I am pursuing a PhD in physics at the [Max Planck Institute for Multidisciplinary Sciences](https://www.mpinat.mpg.de/de) in Göttingen and [Heidelberg University](https://www.uni-heidelberg.de/en). As a member of [Stefan Hell's](https://www.mpinat.mpg.de/de/hell) group, I focus on developing innovative methods for sub-diffraction scale microscopy.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I hold graduate degrees in Physics and in Philosophy of Science from Hannover, and I have had the privilege of studying at CERN, Stanford University, and Universitetet i Agder.
+
+My primary research interests lie in novel imaging methods, quantum metrology, and applied quantum information. I am particularly fascinated by how quantum mechanical properties influence the extraction, communication, and processing of information.
+
+In addition to my work in physics, I have a strong interest in philosophy. Studying the philosophy of science has broadened my perspective, allowing me to explore the intersections between science and its socio-political context.
+
+Feel free to explore my site and learn more about my work and interests.
