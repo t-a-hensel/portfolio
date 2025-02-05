@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: Here's a coarse-grained overview of my education and work so far. For more information on my work please have a look at the publications or get in touch directly.
 toc:
   sidebar: left
 ---
