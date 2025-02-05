@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our [preprint](https://www.biorxiv.org/content/10.1101/2024.01.24.576982v1) has been accepted for publication in Nature Physics. You can find the article online.
+Our [preprint](https://www.biorxiv.org/content/10.1101/2024.01.24.576982v1) has been accepted for publication in Nature Physics. You can find the article (open access) [online](https://www.biorxiv.org/content/10.1101/2024.01.24.576982v1).
