@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Funding by Vector Stiftung
+title: 100k Funding by Vector Stiftung
 date: 2024-05-11 16:11:00-0400
 inline: false
 related_posts: false
