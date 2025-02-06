@@ -24,13 +24,12 @@
   },
   "work": [
     {
-      "name": "Max Planck Institute for Multidisciplinary Natural Sciences",
+      "name": "Max Planck Institute for Multidisciplinary Sciences",
       "position": "PhD candidate",
       "url": "",
       "startDate": "2022-01-01",
       "endDate": "2025-08-30",
-      "summary": "We took the first video of two molecules below the diffraction limit.",
-      "highlights": ["Imaging", "Computational Imaging", "Microscopy"]
+      "summary": "We took the first video of two molecules below the diffraction limit."
     }
   ],
   "education": [
@@ -41,9 +40,7 @@
       "area": "Physics",
       "studyType": "M.Sc.",
       "startDate": "2019-10-01",
-      "endDate": "2020-09-30",
-      "score": "1.0",
-      "courses": [""]
+      "endDate": "2020-09-30"
     },
     {
       "institution": "University of Hannover",
@@ -52,9 +49,7 @@
       "area": "Philosophy of Science",
       "studyType": "M.Phil.",
       "startDate": "2019-10-01",
-      "endDate": "2021-12-30",
-      "score": "1.3",
-      "courses": [""]
+      "endDate": "2021-12-30"
     },
     {
       "institution": "University of Hannover",
@@ -63,9 +58,7 @@
       "area": "Physics",
       "studyType": "B.Sc.",
       "startDate": "2019-10-01",
-      "endDate": "2020-09-30",
-      "score": "1.0",
-      "courses": [""]
+      "endDate": "2020-09-30"
     }
   ],
   "awards": [
@@ -93,12 +86,22 @@
     {
       "name": "Professor Stefan W. Hell",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "stefan.hell@mpinat.mpg.de"
+      "reference": "Max Planck: stefan.hell@mpinat.mpg.de"
     },
     {
       "name": "Professor William D. Phillips",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "william.phillips@nist.gov"
+      "reference": "NIST/University of Maryland: william.phillips@nist.gov"
+    },
+    {
+      "name": "Professor Mark Kasevich",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Stanford: kasevich@stanford.edu"
+    },
+    {
+      "name": "Assist. Professor Chris Overstreet",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Johns Hopkins: c.overstreet@jhu.edu"
     }
   ]
 }
