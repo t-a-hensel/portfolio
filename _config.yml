@@ -242,12 +242,12 @@ exclude:
   - package-lock.json
   #TODO: enable
   #- _pages/about_thomas.md
-  - _pages/blog.md
+  #- _pages/blog.md
   #- _pages/cv.md
   - _pages/projects.md
   - _pages/teaching.md
   - _pages/repositories.md
-  - _pages/profiles.md
+  #- _pages/profiles.md
   - purgecss.config.js
   - README.md
   - readme_preview/
