@@ -6,7 +6,7 @@ subtitle: <a href='https://www.mpinat.mpg.de/de/hell'>Max Planck</a>/<a href='ht
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>MPI-NAT, </p>
