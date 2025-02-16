@@ -1,14 +1,8 @@
 github_users:
   - t-a-hensel
-  - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
-  - t-a-hensel/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - t-a-hensel/portfolio
+  - t-a-hensel/replot
