@@ -6,14 +6,14 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Thomas
 middle_name: A.
 last_name: Hensel
-email: you@example.com
+email: thomas.hensel@mpinat.mpg.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Thomas Hensel's academic portfolio.
+  Thomas A. Hensel's academic portfolio.
 footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: # (alternatively, provide image name in /assets/img/)
 
 url: https://t-a-hensel.github.io # the base hostname & protocol for your site
 baseurl: /portfolio # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -87,7 +87,7 @@ lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: # your ORCID ID
+orcid_id: 0000-0002-7497-3329 # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
@@ -104,8 +104,8 @@ wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-work_url: # work page URL
-x_username: # your X handle
+work_url: https://t-a-hensel.github.io/portfolio # work page URL
+x_username: thomas_hensel # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
@@ -132,7 +132,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Edge of Discovery # blog_name will be displayed in your blog page
 blog_description: Research notes and announcements.
-permalink: /blog/:year/:title/
+permalink: #/blog/:year/:title/
 lsi: false # produce an index for related posts
 
 # Pagination
@@ -157,10 +157,6 @@ giscus:
   theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
   emit_metadata: 0
   lang: en
-
-# Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
-# https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
@@ -240,13 +236,14 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   #TODO: enable
+  #- _pages/about_thomas.md
   - _pages/blog.md
-  - _pages/cv.md
+  #- _pages/cv.md
+  - _pages/projects.md
   - _pages/teaching.md
   - _pages/repositories.md
-  - _pages/profiles.md
+  #- _pages/profiles.md
   - purgecss.config.js
   - README.md
   - readme_preview/

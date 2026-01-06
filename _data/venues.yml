@@ -1,9 +1,23 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
 "PhysRev":
   url: https://journals.aps.org/
+  color: "#00369f"
 
-"Vision":
-  color: "#009f36"
+"NatPhys":
+  url: https://www.nature.com/nphys/
+  color: "#000000"
+
+"PNAS":
+  url: https://www.pnas.org/
+  color: "#2375DE"
+
+"EPJD":
+  url: https://epjd.epj.org/
+  color: "#DE9023"
+
+"ArXiv":
+  url: https://arxiv.org/
+  color: "#E21A1E"
+
+"BioArXiv":
+  url: https://www.biorxiv.org/
+  color: "#E21A1E"
