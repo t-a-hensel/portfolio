@@ -22,6 +22,6 @@ Hey, I’m Thomas, and you found my academic portfolio.
 
 I obtained my PhD in physics at the [Max Planck Institute for Multidisciplinary Sciences](https://www.mpinat.mpg.de/de) in Göttingen and at [Heidelberg University](https://www.uni-heidelberg.de/en).
 As a member of [Stefan Hell's](https://www.mpinat.mpg.de/de/hell) group, I focused on developing innovative methods for super-resolution microscopy.
-My key contribution was to record the first live-footage of a conformational transition.
+My key contribution was to record the first live-footage of a structural transition of a protein-like DNA origami.
 
 Feel free to explore my site and learn more about my work and interests.
